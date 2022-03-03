@@ -27,13 +27,13 @@ Not wanting to clone, but want to practice the set up of the environment yoursel
 - Edit the `scripts` in your `package.json` file to read as
 
   ```
-    {
+    
         "scripts": {
             "start": "parcel index.html",
             "build": "parcel build index.html",
             "test": "jest --watchAll"
         }
-    }
+    
   ```
 
 - Create a [gitignore file at gitignore.io](https://www.toptal.com/developers/gitignore)
